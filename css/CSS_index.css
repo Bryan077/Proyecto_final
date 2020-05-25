@@ -1,0 +1,60 @@
+table {
+    background-color: #FAF20B;
+    width: 95%;
+    margin-top: 155px;
+    height: 800px;
+    padding: 0px;
+}
+body {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+    padding: 0px;
+    background-color: #494848;
+}
+.la_sirena {
+    width: 30%;
+    margin: 0px;
+    padding: 0px;
+}
+header {
+    height: 100%;
+    width: 100%;
+    margin: 0px;
+    padding: 0px;
+}
+.img_sirena {
+    margin-left: 12%;
+    border: solid blue 8px;
+    border-radius: 50%;
+    margin-top: 20px;
+}
+#cabezera {
+    position: fixed;
+    background-color: white;
+    width: 100%;
+    box-shadow: 0px 4px 10px 0px #FAF20B;
+}
+#menu {
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.sub {
+    font-size: 25px;
+    height: 100%;
+    margin-top: 0px;
+    display: flex;
+    justify-content: center;
+}
+.sub a {
+    margin: 20px;
+    padding: 15px;
+    margin-top: 10px;
+    background-color: #FAF20B;
+}
+#sub {
+    width: 140px;
+}
+.inicio {}

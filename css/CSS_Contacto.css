@@ -1,0 +1,189 @@
+html, body {
+    margin: 0px;
+    padding: 0px;
+}
+* {
+    margin: 0px;
+    padding: 0px;
+}
+.holaa {
+    background-color: rgba(0, 0, 0, 0.74);
+    width: 100%;
+    position: fixed;
+    z-index: 999;
+    top: 0px;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    height: auto;
+    line-height: 50px;
+    font-size: 30px;
+    font-family: c bell mt;
+    box-shadow: 1px -2px 15px 8px white;
+}
+.nav li ul {
+    position: absolute;
+    top: 60px;
+    border: none;
+    background-color: rgba(0, 0, 0, 0.64);
+}
+.nav li ul li {
+    padding: 10px;
+    border-bottom: solid white 3px;
+}
+.nav li ul li:hover {
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.74);
+    background-color: #777777;
+    transition: all 0.3s;
+}
+.holaa strong {}
+strong {
+    font-size: 33px;
+    font-family: bell mt;
+    padding-right: 32px;
+}
+.gallo strong em {}
+.holaa img {
+    border-radius: 100%;
+    width: 40px;
+    height: 40px;
+    margin-top: 14px;
+    margin-left: 20px;
+}
+.gallo {
+    display: flex;
+    flex-direction: row;
+}
+.holaa li ul a {
+    display: block;
+    color: white;
+}
+.header {
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    margin: auto;
+    background-color: rgba(255, 255, 255, 0.6);
+    border: dashed #222222 15px;
+    border-top-right-radius: 15px;
+    border-top-left-radius: 15px;
+}
+.nav li ul li:hover {
+    cursor: pointer;
+    background-color: rgba(0, 0, 0, 0.74)
+}
+#header {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+    width: 629px;
+    margin-left: 500px;
+    font-size: 23px;
+    padding: 0px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#header .nav .jola:hover {
+    background-color: #777777;
+    border: solid white 2px;
+    transition: all 0.3s;
+}
+#header .nav .jola {
+    display: flex;
+    justify-content: center;
+}
+ul {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+.header ul .nav {
+    align-items: flex-end;
+}
+.nav>li {
+    float: left;
+    padding: 0px;
+    margin: 0px;
+}
+.nav li a {
+    color: #fff;
+    text-decoration: none;
+    padding: 5px 5px;
+    padding: 0px;
+    margin: 0px;
+    margin-right: 20px;
+    display: block;
+}
+.nav li ul {
+    display: none;
+    padding: 0px;
+    margin: 0px;
+    min-width: 140px;
+}
+.nav li:hover>ul {
+    display: block;
+}
+.nav li ul li ul {
+    right: -140px;
+    top: 1120px;
+}
+body {
+    filter: sepia(9.1);
+    background-image: url(lasirenahiguey.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    display: flex;
+    overflow: hidden;
+    justify-content: center;
+}
+* {}
+.Contenedor_contacto {
+    width: 35%;
+    display: flex;
+    margin-top: 170px;
+    justify-content: center;
+    flex-direction: column;
+    background-color: #FBB335;
+    border-radius: 15PX;
+}
+input {
+    width: 90%;
+    border-bottom: solid white 5px;
+    margin: auto;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background-color: #FBB335;
+}
+.klkl input {
+    width: 20%;
+    margin: auto;
+    padding: 8px;
+    margin: 10px;
+}
+.klkl {
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+    justify-content: center;
+}
+.klkl input:hover {
+    background-color: white;
+    cursor: pointer;
+    border: solid;
+    transition: all 0.6s;
+}
+.kola {
+    float: left;
+}
+h1 {
+    margin-top: 10px;
+    text-shadow: 3px 3px 10px yellow;
+}
+.mii .jaja {
+    padding-right: 10px;
+    margin-left: 95px
+}
+.mii .miii1 {
+    padding-right: 80px;
+}
